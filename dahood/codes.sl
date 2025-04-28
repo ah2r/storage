@@ -1,4 +1,4 @@
-{
+[
     "TRADEME!",
     "DAUP",
     "pumpkins2023",
@@ -14,4 +14,4 @@
     "Quack",
     "50MDHC",
     "Midnight"
-}
+]
