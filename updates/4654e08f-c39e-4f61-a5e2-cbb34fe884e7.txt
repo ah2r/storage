@@ -1,0 +1,96 @@
+```css
+[game] Da Hood
+
+- [+] anti client-snitch tech (cancels banning connections and other stuff)
+- [*] major modifications to anticheat disabler
+- [+] anti stomp
+- [+] target strafe
+- [+] auto kill
+- [+] renamed "code redeemer" -> redeemer
+- [+] moved coderedemer
+- [+] new targethud
+- [+] improved autoselect
+- [+] ragebot
+- [+] rapidfire now works without reseting
+- [+] improved disabler
+- [+] view chat history
+- [+] grouped autoselect and rage into their own categories
+- [+] wallcheck to autoselect
+- [+] desync mode dropdowns (Random, Truely Random, Up & Down, Very Random)
+- [+] showdesync 
+- [+] new desync visuals
+- [+] destroy cheaters keybind
+- [+] hotbar mods
+- [+] noslow now gives inf energy
+- [+] character chams
+- [+] join small server
+- [+] rejoin btn
+- [+] copy tp script (lets others without being your ROBLOX friend join you.)
+- [+] force target (ragebot)
+- [+] hit detection
+- [+] shoot detection
+- [+] new event system so its easier for developers to code
+- [+] silentaim
+- [*] reworked gun firing on ragebot, autoselect
+- [+] modes for autostomp
+- [+] autostomp (tp) is now a mode (hover -> stomps the player, teleport -> teleport to any dead body found in the game and stomps the target)
+- [+] camera toggle (desync)
+- [+] inf range autoselect
+- [+] inf range ragebot
+- [*] csync desync rewrite
+
+[game] bubblegum simulator infinity 
+
+- [+] auto craft potion
+- [+] auto collect
+- [+] island tp
+- [+] island esp
+- [+] auto enchant
+- [+] auto sell
+- [+] auto blow
+- [+] auto delete
+- [+] auto buy
+- [+] redeem all codes button
+- [+] auto use (potions, items, etc)
+- [+] auto play minigames
+- [+] auto claim
+- [+] auto hatch
+
+[game] zombies rng
+
+- [+] killaura
+- [+] gunmods (firerate, inf ammo)
+- [+] zombie chams
+- [+] silent aim
+- [+] closure finder (hyproxide's finder)
+
+[other] universal
+
+- [+] port esp
+- [+] fly vertical speed
+- [+] fixed health frame fucking up on edit
+- [+] chatspammer
+- [+] fly and speed's sliders now only show on toggle
+- [+] speed modes (walkspeed, cframe, velocity)
+- [*] improved esp
+- [*] fixed chams
+
+[other] other changes
+
+- [+] keybind menu
+- [+] keybinds
+- [+] custom fonts
+- [+] the disabler now crashes on unload (dh)
+- [+] the s in skyline is now the accent color
+- [+] fixed installer not working on certain exploits
+- [+] ui now appears after running script
+- [+] you can now change the bind of the ui in settings
+- [+] fix autoload
+- [*] made everything lowercase
+- [*] tons of bug fixes
+- [*] everything toggles off now
+```
+developers: [[outer]](<https://fakecrime.bio/outer>), [[xzxkw]](<https://fakecrime.bio/xzxkw>), and [[maxlasertech]](<https://guns.lol/maxlaser>)
+suggestions: @ilostazul and @mystickriver
+
+Thank you for supporting Skyline, Skyline is now officially released.
