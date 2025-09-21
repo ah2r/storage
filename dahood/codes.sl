@@ -1,5 +1,5 @@
 {
-    "1": "BUBU",
-    "2": "MUSIC",
-    "3": "KINGPIN"
+    "1": "BRAINROT",
+    "2": "LUXE",
+    "3": "TURBO"
 }
